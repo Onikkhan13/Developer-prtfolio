@@ -1,9 +1,21 @@
 body{
     font-family: 'Poppins', sans-serif;
+    font-family: 'Smooch', cursive;
+    font-family: 'Yellowtail', cursive;
+    background-color: rgba(128, 128, 128, 0.067);
 }
 .name{
     color: coral;
 }
 section{
     display: flex;
+}
+h1{
+    font-size: 300%;
+}
+.half-width{
+    width: 50%;
+}
+p{
+    font-size: x-large;
 }
