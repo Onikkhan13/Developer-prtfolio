@@ -37,7 +37,7 @@ p{
 .top-banner{
     background-image: url(back3.png);
     background-repeat: no-repeat;
-    background-size: small%px;
+    background-size: small;
     background-position: left top;
 }
 .dream-big{
