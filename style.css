@@ -33,5 +33,7 @@ p{
     font-weight: 500;
 }
 .top-banner{
-    background-image: url(top-banner.png);
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    background-size: 0.5px;
 }
