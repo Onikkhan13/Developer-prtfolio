@@ -8,12 +8,15 @@ body{
 .name{
     color: coral;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 130px;
 }
 h1{
     font-size: 300%;
+}
+h2{
+    font-size: 40px;
 }
 .half-width{
     width: 50%;
@@ -45,4 +48,31 @@ p{
     background-repeat: no-repeat;
     background-position: right top;
     background-size: 10%;
+}
+.experience{
+    box-shadow: 10px 10px 40px grey;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+.experience-area{
+    background-image: url(back2.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+.align{
+    text-align: center;
+    color: red;
+}
+#red{
+    border-left: 7px solid red;
+}
+#yellow{
+    border-left: 7px solid yellow;
+}
+footer p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: ex-small;
 }
